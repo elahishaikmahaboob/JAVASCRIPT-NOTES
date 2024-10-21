@@ -1,0 +1,77 @@
+#javascript concepts
+
+history of Javascript
+
+features of javascript
+
+data types
+
+operators
+
+loops
+
+conditions if/else
+
+variable declaratuions
+
+scopes
+
+event loop
+
+callStack
+
+micro/macro tasks
+
+hoisting
+
+Functions
+
+closure
+
+currying
+
+Destructuring
+
+ES6 Features
+
+Spread & Rest operators
+
+Local Storage & Session Storage
+
+Default Parameters
+
+Regex
+
+template literals
+
+HOF [Higher Ordered Functions]
+
+IIFE [Immediate Invoke Function Exppression]
+
+Arrow functions
+
+string methods
+
+array methods (iterator and mutator)
+
+object methods
+
+callBack
+
+asynchronous
+
+callbackHell
+
+debouncing && throttling && browser throttling
+
+DOM manipulations
+
+promises || Async/await
+
+API Fetching
+
+Polyfills
+
+Generators
+
+OOPS Concepts
